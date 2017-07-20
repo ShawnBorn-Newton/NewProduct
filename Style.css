@@ -1,2 +1,15 @@
 ﻿body {
 }
+/*HEADER*/
+#triskel{
+    width:50px;
+}
+div.page-header{
+    margin-top:0px;
+    background-color:seagreen;
+    padding-top:3px;
+    margin-bottom:0px;
+}
+#companie{
+    color:black;
+}
