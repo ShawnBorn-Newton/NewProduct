@@ -13,3 +13,23 @@ div.page-header{
 #companie{
     color:black;
 }
+/*NAVBAR*/
+nav#navvy.navbar.navbar-static-top{
+    margin-bottom:0px;
+    background-color:palegoldenrod;
+    
+}
+#navvy a {
+    color:#012b01;
+}
+#navvy a:hover{
+    background:none;
+
+}
+/*BUTTON*/
+button.navbar-toggle{
+    border:1px solid #012b01;
+}
+span.icon-bar{
+    border:1px solid #012b01;
+}
